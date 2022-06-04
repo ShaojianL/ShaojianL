@@ -2,7 +2,7 @@
 
 <!--
 **ShaojianL/ShaojianL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... receptor mediated endocytosis
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...this repository is for school assignments.
--->
+- ⚡ Fun fact: ...this repository is for school assignments
