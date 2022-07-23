@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on receptor mediated endocytosis
 - 🌱 I’m currently learning python, c++, SQL, React
 - 🤔 I’m looking for help with python, c++, SQL, React, primer design
-- This account and its repository is for school assignments assigned in CMPT courses at SFU, there is no note worthy project in this account.
+- This account and its repository is for school completed assignments assigned in CMPT courses at SFU, there is no note worthy project in this account.
